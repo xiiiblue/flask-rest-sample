@@ -1,0 +1,5 @@
+peewee
+pymysql
+flask
+flask-JWT
+flask-script
